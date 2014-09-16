@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\OPENGL_Tutorials\COMP5411_HW1\COMP5411_HW1\Q3.cpp">
+    <ClCompile Include="Q3.cpp">
       <Filter>Resource Files</Filter>
     </ClCompile>
   </ItemGroup>
